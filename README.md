@@ -1,0 +1,1 @@
+# example-ping-service-server
